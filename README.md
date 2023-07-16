@@ -34,7 +34,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Dating App Backend Implementation</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
@@ -85,16 +85,13 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+This project implementation is implemented using .NET 7 and the intention is to allow myself to practice the project planning in Jira by breaking down the tasks into different epics and user stories while developing each user story. It also gives me the chance to revise my knowledge on C# and .NET 7 ecosystem.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+So here's the breakdown of the project features
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+* test 1
+* test 2
+* test 3
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,6 +131,8 @@ This is an example of how to list things you need to use the software and how to
 ### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+
+The initial setup of this project requires ...
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -213,7 +212,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/AngKokLeong/DatingAppBackend](https://github.com/AngKokLeong/DatingAppBackend)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
